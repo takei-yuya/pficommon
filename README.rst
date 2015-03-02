@@ -2,6 +2,9 @@
 pficommon: Common Library of C++
 ================================
 
+.. image:: https://travis-ci.org/takei-yuya/pficommon.svg?branch=travis-ci
+https://travis-ci.org/takei-yuya/pficommon
+
 About
 =====
 
